@@ -1,1 +1,1 @@
-# PHP-WEDDING-MANAGEMENT-SYSTEM
+# PHP-Wedding-Planner
